@@ -1,3 +1,0 @@
-src_ip,dst_ip,protocol,length
-10.0.0.1,10.0.0.2,TCP,1600
-10.0.0.3,10.0.0.4,UDP,1300
